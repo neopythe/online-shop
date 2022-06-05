@@ -4,4 +4,34 @@
 
 html {
   font-family: 'Charis SIL', serif;
+
+  --colour-blue-50: #e3f2fd;
+  --colour-blue-100: #bbdefb;
+  --colour-blue-200: #90caf9;
+  --colour-blue-300: #64b5f6;
+  --colour-blue-400: #42a5f5;
+  --colour-blue-500: #2196f3;
+  --colour-blue-600: #1e88e5;
+  --colour-blue-700: #1976d2;
+  --colour-blue-800: #1565c0;
+  --colour-blue-900: #0d47a1;
+
+  --colour-primary-50: #fff3e0;
+  --colour-primary-100: #ffe0b2;
+  --colour-primary-200: #ffcc80;
+  --colour-primary-300: #ffb74d;
+  --colour-primary-400: #ffa726;
+  --colour-primary-500: #ff9800;
+  --colour-primary-600: #fb8c00;
+  --colour-primary-700: #f57c00;
+  --colour-primary-800: #ef6c00;
+  --colour-primary-900: #e65100;
+
+  --colour-primary-200-contrast: #521d00;
+  --colour-primary-500-contrast: #fff;
+
+  --colour-error-100: #ffcdd2;
+  --colour-error-500: #f44336;
+
+  --colour-primary-500-bg: #90caf9;
 }
