@@ -48,7 +48,7 @@ html {
 }
 
 body {
-  background-color: var(--colour-blue-500);
+  background-color: var(--colour-blue-400);
   color: var(--colour-blue-50);
   margin: 0;
 }
